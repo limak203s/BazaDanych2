@@ -44,4 +44,6 @@ public class BazaDbHelper extends SQLiteOpenHelper
         public static final String TABLE_NAME = "baza";
         public static final String TEKST = "tekst";
     }
+
+    //Elo, drugi commit
 }
